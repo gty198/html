@@ -1,3 +1,3 @@
 # html
 html learning note
-mino learn note
+from mino learn note
